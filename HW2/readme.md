@@ -1,5 +1,5 @@
-                    HW2_Q1 : 2層NN 
-                    參考Q1.py, test正確率 : 96.67%
+  HW2_Q1 : 2層NN 
+  參考Q1.py, test正確率 : 96.67%
 
 HW2_Q2 : 
 Q2_m1 -> autoencoder結構並加入regularization &dropout
